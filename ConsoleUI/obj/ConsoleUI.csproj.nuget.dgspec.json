@@ -1,22 +1,22 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\90544\\Desktop\\BackendEgitim\\BackendEgitim\\ConsoleUI\\ConsoleUI.csproj": {}
+    "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\ConsoleUI\\ConsoleUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\90544\\Desktop\\BackendEgitim\\BackendEgitim\\Business\\Business.csproj": {
+    "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\Business\\Business.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\90544\\Desktop\\BackendEgitim\\BackendEgitim\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\90544\\Desktop\\BackendEgitim\\BackendEgitim\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\Business\\Business.csproj",
         "frameworks": {
           "net481": {
             "projectReferences": {
-              "C:\\Users\\90544\\Desktop\\BackendEgitim\\BackendEgitim\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\90544\\Desktop\\BackendEgitim\\BackendEgitim\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\90544\\Desktop\\BackendEgitim\\BackendEgitim\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\90544\\Desktop\\BackendEgitim\\BackendEgitim\\Entities\\Entities.csproj"
+              "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\Entities\\Entities.csproj"
               }
             }
           }
@@ -26,14 +26,14 @@
         "net481": {}
       }
     },
-    "C:\\Users\\90544\\Desktop\\BackendEgitim\\BackendEgitim\\ConsoleUI\\ConsoleUI.csproj": {
+    "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\ConsoleUI\\ConsoleUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\90544\\Desktop\\BackendEgitim\\BackendEgitim\\ConsoleUI\\ConsoleUI.csproj",
+        "projectUniqueName": "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\ConsoleUI\\ConsoleUI.csproj",
         "projectName": "ConsoleUI",
-        "projectPath": "C:\\Users\\90544\\Desktop\\BackendEgitim\\BackendEgitim\\ConsoleUI\\ConsoleUI.csproj",
+        "projectPath": "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\ConsoleUI\\ConsoleUI.csproj",
         "packagesPath": "C:\\Users\\90544\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\90544\\Desktop\\BackendEgitim\\BackendEgitim\\ConsoleUI\\obj\\",
+        "outputPath": "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\ConsoleUI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
@@ -57,14 +57,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\90544\\Desktop\\BackendEgitim\\BackendEgitim\\Business\\Business.csproj": {
-                "projectPath": "C:\\Users\\90544\\Desktop\\BackendEgitim\\BackendEgitim\\Business\\Business.csproj"
+              "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\Business\\Business.csproj"
               },
-              "C:\\Users\\90544\\Desktop\\BackendEgitim\\BackendEgitim\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\90544\\Desktop\\BackendEgitim\\BackendEgitim\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\90544\\Desktop\\BackendEgitim\\BackendEgitim\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\90544\\Desktop\\BackendEgitim\\BackendEgitim\\Entities\\Entities.csproj"
+              "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\Entities\\Entities.csproj"
               }
             }
           }
@@ -103,16 +103,16 @@
         }
       }
     },
-    "C:\\Users\\90544\\Desktop\\BackendEgitim\\BackendEgitim\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\DataAccess\\DataAccess.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\90544\\Desktop\\BackendEgitim\\BackendEgitim\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\90544\\Desktop\\BackendEgitim\\BackendEgitim\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\DataAccess\\DataAccess.csproj",
         "frameworks": {
           "net481": {
             "projectReferences": {
-              "C:\\Users\\90544\\Desktop\\BackendEgitim\\BackendEgitim\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\90544\\Desktop\\BackendEgitim\\BackendEgitim\\Entities\\Entities.csproj"
+              "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\Entities\\Entities.csproj"
               }
             }
           }
@@ -122,11 +122,11 @@
         "net481": {}
       }
     },
-    "C:\\Users\\90544\\Desktop\\BackendEgitim\\BackendEgitim\\Entities\\Entities.csproj": {
+    "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\Entities\\Entities.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\90544\\Desktop\\BackendEgitim\\BackendEgitim\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\90544\\Desktop\\BackendEgitim\\BackendEgitim\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\Entities\\Entities.csproj",
         "frameworks": {
           "net481": {
             "projectReferences": {}

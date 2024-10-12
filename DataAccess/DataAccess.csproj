@@ -41,13 +41,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Abstract\ICategoryDal.cs" />
+    <Compile Include="Abstract\ICustomerDal.cs" />
+    <Compile Include="Abstract\IEntityRepository.cs" />
     <Compile Include="Abstract\IProductDal.cs" />
+    <Compile Include="Concrete\EntityFramework\EfCategoryDal.cs" />
+    <Compile Include="Concrete\EntityFramework\EfProductDal.cs" />
     <Compile Include="Concrete\InMemory\InMemoryProductDal.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Concrete\EntityFramework\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <ProjectReference Include="..\Entities\Entities.csproj">
       <Project>{04C2051F-1578-496E-89B1-408778D23F57}</Project>
