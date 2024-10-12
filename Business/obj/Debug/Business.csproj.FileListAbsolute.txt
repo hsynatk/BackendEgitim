@@ -1,0 +1,11 @@
+C:\Users\90544\Desktop\BackendEgitim\BackendEgitim\Business\bin\Debug\Business.dll
+C:\Users\90544\Desktop\BackendEgitim\BackendEgitim\Business\bin\Debug\Business.pdb
+C:\Users\90544\Desktop\BackendEgitim\BackendEgitim\Business\bin\Debug\DataAccess.dll
+C:\Users\90544\Desktop\BackendEgitim\BackendEgitim\Business\bin\Debug\Entities.dll
+C:\Users\90544\Desktop\BackendEgitim\BackendEgitim\Business\bin\Debug\DataAccess.pdb
+C:\Users\90544\Desktop\BackendEgitim\BackendEgitim\Business\bin\Debug\Entities.pdb
+C:\Users\90544\Desktop\BackendEgitim\BackendEgitim\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\90544\Desktop\BackendEgitim\BackendEgitim\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\90544\Desktop\BackendEgitim\BackendEgitim\Business\obj\Debug\Business.csproj.Up2Date
+C:\Users\90544\Desktop\BackendEgitim\BackendEgitim\Business\obj\Debug\Business.dll
+C:\Users\90544\Desktop\BackendEgitim\BackendEgitim\Business\obj\Debug\Business.pdb
