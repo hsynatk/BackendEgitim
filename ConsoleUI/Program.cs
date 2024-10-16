@@ -1,21 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿
+
+using BE.Business.Concrete;
+using BE.DataAccess.Concrete.InMemory;
+
+ProductManager productManager = new ProductManager(new InMemoryProductDal());
 
 
-using Business.Concrete;
-using DataAccess.Concrete.InMemory;
-
-class program
-{
-    static void Main(string[] args)
+    foreach (var product in productManager.GetAll())
     {
-        ProductManager productManager = new ProductManager(new InMemoryProductDal());
-
-
-        foreach (var product in productManager.GetAll())
-        {
-            Console.WriteLine(product.ProductName);
-        }
+        Console.WriteLine(product.ProductName);
     }
-}
-
-

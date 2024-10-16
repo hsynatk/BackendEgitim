@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF1DEBCC-E0A7-4A2C-AAC9-D88793F2E1AA}|DataAccess\\DataAccess.csproj|c:\\users\\90544\\documents\\github\\backendegitim\\dataaccess\\concrete\\entityframework\\efcategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF1DEBCC-E0A7-4A2C-AAC9-D88793F2E1AA}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\entityframework\\efcategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF1DEBCC-E0A7-4A2C-AAC9-D88793F2E1AA}|DataAccess\\DataAccess.csproj|c:\\users\\90544\\documents\\github\\backendegitim\\dataaccess\\concrete\\entityframework\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF1DEBCC-E0A7-4A2C-AAC9-D88793F2E1AA}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\entityframework\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF1DEBCC-E0A7-4A2C-AAC9-D88793F2E1AA}|DataAccess\\DataAccess.csproj|c:\\users\\90544\\documents\\github\\backendegitim\\dataaccess\\abstract\\icustomerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF1DEBCC-E0A7-4A2C-AAC9-D88793F2E1AA}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\abstract\\icustomerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AEFB9F37-35BC-4ECB-A282-8FB812D0C70B}|ConsoleUI\\ConsoleUI.csproj|c:\\users\\90544\\documents\\github\\backendegitim\\consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFB9F37-35BC-4ECB-A282-8FB812D0C70B}|ConsoleUI\\ConsoleUI.csproj|solutionrelative:consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EfProductDal.cs",
-              "DocumentMoniker": "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
-              "ToolTip": "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
-              "RelativeToolTip": "DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAA1wA0AAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T12:55:19.339Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EfCategoryDal.cs",
-              "DocumentMoniker": "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\DataAccess\\Concrete\\EntityFramework\\EfCategoryDal.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EntityFramework\\EfCategoryDal.cs",
-              "ToolTip": "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\DataAccess\\Concrete\\EntityFramework\\EfCategoryDal.cs",
-              "RelativeToolTip": "DataAccess\\Concrete\\EntityFramework\\EfCategoryDal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\ConsoleUI\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleUI\\Program.cs",
+              "ToolTip": "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\ConsoleUI\\Program.cs",
+              "RelativeToolTip": "ConsoleUI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T12:55:01.146Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ICustomerDal.cs",
-              "DocumentMoniker": "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\DataAccess\\Abstract\\ICustomerDal.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Abstract\\ICustomerDal.cs",
-              "ToolTip": "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\DataAccess\\Abstract\\ICustomerDal.cs",
-              "RelativeToolTip": "DataAccess\\Abstract\\ICustomerDal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T12:46:17.596Z",
+              "WhenOpened": "2024-10-16T11:42:23.02Z",
               "EditorCaption": ""
             }
           ]
