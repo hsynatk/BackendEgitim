@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WOqRX0syPWHOXxrY+Cnintad7t8lzgK0bPl645BVR/7KbdDQS33Db6pqxQe6K1PS+hNf6uv40aSW2c55qd9/Cw==",
+  "dgSpecHash": "rZrDON/dqZFjHosZS6+2VOTsBIO63VBkYkamIa4I4zxpCL7zXjxQ5oyMYiFuJQ7k1ku4BY7Ofuksv2b4kBuKJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\ConsoleUI\\ConsoleUI.csproj",
+  "projectFilePath": "C:\\Users\\90544\\Desktop\\Yeni klasör\\ConsoleUI\\ConsoleUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\90544\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.10\\microsoft.entityframeworkcore.8.0.10.nupkg.sha512",
     "C:\\Users\\90544\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.10\\microsoft.entityframeworkcore.abstractions.8.0.10.nupkg.sha512",

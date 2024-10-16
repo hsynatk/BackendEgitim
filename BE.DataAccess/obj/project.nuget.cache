@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/U/Ls8PsxWh6vXmpaiCJiJZQZKwn7/RfA4h6Y7zlYASZBXXs/hQk+guPPSWfql6ajc1wuw5nCntWcIf27+AY/g==",
+  "dgSpecHash": "V2SXJ4Y0Wavb8E9ecTWxWcmDJZS/AWq39xEzW47hFNgLBuoPtMEbgyQfjDlaqkWYf3HN9706VPiLJXEI2BVG/w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\BE.DataAccess\\BE.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\90544\\Desktop\\Yeni klasör\\BE.DataAccess\\BE.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\90544\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.10\\microsoft.entityframeworkcore.8.0.10.nupkg.sha512",
     "C:\\Users\\90544\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.10\\microsoft.entityframeworkcore.abstractions.8.0.10.nupkg.sha512",

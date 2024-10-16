@@ -1,0 +1,17 @@
+C:\Users\90544\Desktop\Yeni klasör\BE.Business\bin\Debug\net8.0\BE.Business.deps.json
+C:\Users\90544\Desktop\Yeni klasör\BE.Business\bin\Debug\net8.0\BE.Business.dll
+C:\Users\90544\Desktop\Yeni klasör\BE.Business\bin\Debug\net8.0\BE.Business.pdb
+C:\Users\90544\Desktop\Yeni klasör\BE.Business\bin\Debug\net8.0\BE.DataAccess.dll
+C:\Users\90544\Desktop\Yeni klasör\BE.Business\bin\Debug\net8.0\BE.Entities.dll
+C:\Users\90544\Desktop\Yeni klasör\BE.Business\bin\Debug\net8.0\BE.DataAccess.pdb
+C:\Users\90544\Desktop\Yeni klasör\BE.Business\bin\Debug\net8.0\BE.Entities.pdb
+C:\Users\90544\Desktop\Yeni klasör\BE.Business\obj\Debug\net8.0\BE.Business.csproj.AssemblyReference.cache
+C:\Users\90544\Desktop\Yeni klasör\BE.Business\obj\Debug\net8.0\BE.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90544\Desktop\Yeni klasör\BE.Business\obj\Debug\net8.0\BE.Business.AssemblyInfoInputs.cache
+C:\Users\90544\Desktop\Yeni klasör\BE.Business\obj\Debug\net8.0\BE.Business.AssemblyInfo.cs
+C:\Users\90544\Desktop\Yeni klasör\BE.Business\obj\Debug\net8.0\BE.Business.csproj.CoreCompileInputs.cache
+C:\Users\90544\Desktop\Yeni klasör\BE.Business\obj\Debug\net8.0\BE.Busin.44FD713A.Up2Date
+C:\Users\90544\Desktop\Yeni klasör\BE.Business\obj\Debug\net8.0\BE.Business.dll
+C:\Users\90544\Desktop\Yeni klasör\BE.Business\obj\Debug\net8.0\refint\BE.Business.dll
+C:\Users\90544\Desktop\Yeni klasör\BE.Business\obj\Debug\net8.0\BE.Business.pdb
+C:\Users\90544\Desktop\Yeni klasör\BE.Business\obj\Debug\net8.0\ref\BE.Business.dll

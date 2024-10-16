@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\ConsoleUI\\ConsoleUI.csproj": {}
+    "C:\\Users\\90544\\Desktop\\Yeni klasör\\ConsoleUI\\ConsoleUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\BE.Business\\BE.Business.csproj": {
+    "C:\\Users\\90544\\Desktop\\Yeni klasör\\BE.Business\\BE.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\BE.Business\\BE.Business.csproj",
+        "projectUniqueName": "C:\\Users\\90544\\Desktop\\Yeni klasör\\BE.Business\\BE.Business.csproj",
         "projectName": "BE.Business",
-        "projectPath": "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\BE.Business\\BE.Business.csproj",
+        "projectPath": "C:\\Users\\90544\\Desktop\\Yeni klasör\\BE.Business\\BE.Business.csproj",
         "packagesPath": "C:\\Users\\90544\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\BE.Business\\obj\\",
+        "outputPath": "C:\\Users\\90544\\Desktop\\Yeni klasör\\BE.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
@@ -35,11 +35,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\BE.DataAccess\\BE.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\BE.DataAccess\\BE.DataAccess.csproj"
+              "C:\\Users\\90544\\Desktop\\Yeni klasör\\BE.DataAccess\\BE.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\90544\\Desktop\\Yeni klasör\\BE.DataAccess\\BE.DataAccess.csproj"
               },
-              "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\BE.Entities\\BE.Entities.csproj": {
-                "projectPath": "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\BE.Entities\\BE.Entities.csproj"
+              "C:\\Users\\90544\\Desktop\\Yeni klasör\\BE.Entities\\BE.Entities.csproj": {
+                "projectPath": "C:\\Users\\90544\\Desktop\\Yeni klasör\\BE.Entities\\BE.Entities.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\BE.DataAccess\\BE.DataAccess.csproj": {
+    "C:\\Users\\90544\\Desktop\\Yeni klasör\\BE.DataAccess\\BE.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\BE.DataAccess\\BE.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\90544\\Desktop\\Yeni klasör\\BE.DataAccess\\BE.DataAccess.csproj",
         "projectName": "BE.DataAccess",
-        "projectPath": "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\BE.DataAccess\\BE.DataAccess.csproj",
+        "projectPath": "C:\\Users\\90544\\Desktop\\Yeni klasör\\BE.DataAccess\\BE.DataAccess.csproj",
         "packagesPath": "C:\\Users\\90544\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\BE.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\90544\\Desktop\\Yeni klasör\\BE.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
@@ -109,8 +109,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\BE.Entities\\BE.Entities.csproj": {
-                "projectPath": "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\BE.Entities\\BE.Entities.csproj"
+              "C:\\Users\\90544\\Desktop\\Yeni klasör\\BE.Entities\\BE.Entities.csproj": {
+                "projectPath": "C:\\Users\\90544\\Desktop\\Yeni klasör\\BE.Entities\\BE.Entities.csproj"
               }
             }
           }
@@ -155,14 +155,14 @@
         }
       }
     },
-    "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\BE.Entities\\BE.Entities.csproj": {
+    "C:\\Users\\90544\\Desktop\\Yeni klasör\\BE.Entities\\BE.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\BE.Entities\\BE.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\90544\\Desktop\\Yeni klasör\\BE.Entities\\BE.Entities.csproj",
         "projectName": "BE.Entities",
-        "projectPath": "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\BE.Entities\\BE.Entities.csproj",
+        "projectPath": "C:\\Users\\90544\\Desktop\\Yeni klasör\\BE.Entities\\BE.Entities.csproj",
         "packagesPath": "C:\\Users\\90544\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\BE.Entities\\obj\\",
+        "outputPath": "C:\\Users\\90544\\Desktop\\Yeni klasör\\BE.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
@@ -222,14 +222,14 @@
         }
       }
     },
-    "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\ConsoleUI\\ConsoleUI.csproj": {
+    "C:\\Users\\90544\\Desktop\\Yeni klasör\\ConsoleUI\\ConsoleUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\ConsoleUI\\ConsoleUI.csproj",
+        "projectUniqueName": "C:\\Users\\90544\\Desktop\\Yeni klasör\\ConsoleUI\\ConsoleUI.csproj",
         "projectName": "ConsoleUI",
-        "projectPath": "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\ConsoleUI\\ConsoleUI.csproj",
+        "projectPath": "C:\\Users\\90544\\Desktop\\Yeni klasör\\ConsoleUI\\ConsoleUI.csproj",
         "packagesPath": "C:\\Users\\90544\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\ConsoleUI\\obj\\",
+        "outputPath": "C:\\Users\\90544\\Desktop\\Yeni klasör\\ConsoleUI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
@@ -253,11 +253,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\BE.Business\\BE.Business.csproj": {
-                "projectPath": "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\BE.Business\\BE.Business.csproj"
+              "C:\\Users\\90544\\Desktop\\Yeni klasör\\BE.Business\\BE.Business.csproj": {
+                "projectPath": "C:\\Users\\90544\\Desktop\\Yeni klasör\\BE.Business\\BE.Business.csproj"
               },
-              "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\BE.DataAccess\\BE.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\BE.DataAccess\\BE.DataAccess.csproj"
+              "C:\\Users\\90544\\Desktop\\Yeni klasör\\BE.DataAccess\\BE.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\90544\\Desktop\\Yeni klasör\\BE.DataAccess\\BE.DataAccess.csproj"
               }
             }
           }

@@ -1,0 +1,11 @@
+C:\Users\90544\Desktop\Yeni klasör\BE.Entities\bin\Debug\net8.0\BE.Entities.deps.json
+C:\Users\90544\Desktop\Yeni klasör\BE.Entities\bin\Debug\net8.0\BE.Entities.dll
+C:\Users\90544\Desktop\Yeni klasör\BE.Entities\bin\Debug\net8.0\BE.Entities.pdb
+C:\Users\90544\Desktop\Yeni klasör\BE.Entities\obj\Debug\net8.0\BE.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90544\Desktop\Yeni klasör\BE.Entities\obj\Debug\net8.0\BE.Entities.AssemblyInfoInputs.cache
+C:\Users\90544\Desktop\Yeni klasör\BE.Entities\obj\Debug\net8.0\BE.Entities.AssemblyInfo.cs
+C:\Users\90544\Desktop\Yeni klasör\BE.Entities\obj\Debug\net8.0\BE.Entities.csproj.CoreCompileInputs.cache
+C:\Users\90544\Desktop\Yeni klasör\BE.Entities\obj\Debug\net8.0\BE.Entities.dll
+C:\Users\90544\Desktop\Yeni klasör\BE.Entities\obj\Debug\net8.0\refint\BE.Entities.dll
+C:\Users\90544\Desktop\Yeni klasör\BE.Entities\obj\Debug\net8.0\BE.Entities.pdb
+C:\Users\90544\Desktop\Yeni klasör\BE.Entities\obj\Debug\net8.0\ref\BE.Entities.dll

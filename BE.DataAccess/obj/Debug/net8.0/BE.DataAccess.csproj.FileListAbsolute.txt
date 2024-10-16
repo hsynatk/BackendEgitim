@@ -1,0 +1,15 @@
+C:\Users\90544\Desktop\Yeni klasör\BE.DataAccess\bin\Debug\net8.0\BE.DataAccess.deps.json
+C:\Users\90544\Desktop\Yeni klasör\BE.DataAccess\bin\Debug\net8.0\BE.DataAccess.dll
+C:\Users\90544\Desktop\Yeni klasör\BE.DataAccess\bin\Debug\net8.0\BE.DataAccess.pdb
+C:\Users\90544\Desktop\Yeni klasör\BE.DataAccess\bin\Debug\net8.0\BE.Entities.dll
+C:\Users\90544\Desktop\Yeni klasör\BE.DataAccess\bin\Debug\net8.0\BE.Entities.pdb
+C:\Users\90544\Desktop\Yeni klasör\BE.DataAccess\obj\Debug\net8.0\BE.DataAccess.csproj.AssemblyReference.cache
+C:\Users\90544\Desktop\Yeni klasör\BE.DataAccess\obj\Debug\net8.0\BE.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90544\Desktop\Yeni klasör\BE.DataAccess\obj\Debug\net8.0\BE.DataAccess.AssemblyInfoInputs.cache
+C:\Users\90544\Desktop\Yeni klasör\BE.DataAccess\obj\Debug\net8.0\BE.DataAccess.AssemblyInfo.cs
+C:\Users\90544\Desktop\Yeni klasör\BE.DataAccess\obj\Debug\net8.0\BE.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\90544\Desktop\Yeni klasör\BE.DataAccess\obj\Debug\net8.0\BE.DataA.87A1643F.Up2Date
+C:\Users\90544\Desktop\Yeni klasör\BE.DataAccess\obj\Debug\net8.0\BE.DataAccess.dll
+C:\Users\90544\Desktop\Yeni klasör\BE.DataAccess\obj\Debug\net8.0\refint\BE.DataAccess.dll
+C:\Users\90544\Desktop\Yeni klasör\BE.DataAccess\obj\Debug\net8.0\BE.DataAccess.pdb
+C:\Users\90544\Desktop\Yeni klasör\BE.DataAccess\obj\Debug\net8.0\ref\BE.DataAccess.dll

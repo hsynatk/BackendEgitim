@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3mImZK457iuosAe86kGTeWh2Xsl4T6sgaS7/8sFf38Jf6ZlIfgv+/QTbwjRFPkxWfStzqcmit1oUgCPVp8gxiw==",
+  "dgSpecHash": "P9JV1CEPbp+2sm+LoZDVqdO8QhbYEKMkgI1AeP9zCP7YWAW31DGcZdh2VgN1E3u2ISiCzdosUYculI/1aB3VFQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\90544\\Documents\\GitHub\\BackendEgitim\\BE.Business\\BE.Business.csproj",
+  "projectFilePath": "C:\\Users\\90544\\Desktop\\Yeni klasör\\BE.Business\\BE.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\90544\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.10\\microsoft.entityframeworkcore.8.0.10.nupkg.sha512",
     "C:\\Users\\90544\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.10\\microsoft.entityframeworkcore.abstractions.8.0.10.nupkg.sha512",
